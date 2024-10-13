@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href= "">
     <img src ="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+</div>
    <img src="https://komarev.com/ghpvc/?username=yilinny&style=flat-square&color=blue" alt=""/>
 
-</div>
+<h1> Hey there! 👋 </h1>
 
-Hey there! 👋
