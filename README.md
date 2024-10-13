@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align ="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295ZDdyY3YzdWE5OXZlbGxjbjZ1bzVyYWNkZnAyNzkyN3V5djZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295ZDdyY3YzdWE5OXZlbGxjbjZ1bzVyYWNkZnAyNzkyN3V5djZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
 
 <div id= "badges" align ="center">
