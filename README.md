@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <div id= "badges" align ="center">
   <a href= "">
     <img src ="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-    <img src="https://komarev.com/ghpvc/?username=yilinny&style=flat-square&color=blue" alt=""/>
   </a>
+   <img src="https://komarev.com/ghpvc/?username=yilinny&style=flat-square&color=blue" alt=""/>
+
+</div>
 
 Hey there! 👋
